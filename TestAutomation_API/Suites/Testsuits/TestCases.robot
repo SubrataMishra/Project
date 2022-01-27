@@ -2,7 +2,6 @@
 Library    String
 Library    JSONLibrary
 Library     RequestsLibrary
-Library    String
 #************** Libraries & Resource files*********************
 Resource	../../Resources/Config/config.robot
 #################******************************************###################################
